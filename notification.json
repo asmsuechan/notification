@@ -1,1 +1,15 @@
-{}
+{
+ "version": 1,
+ "notifications": [
+  {
+   "id": 1,
+   "text": "Boostnote mobile app was released!!",
+   "linkUrl": "https://github.com/BoostIO/boostnote-mobile/blob/master/resources/repository/app_image.png"
+  },
+  {
+   "id": 2,
+   "text": "This update's release note.",
+   "linkUrl": "https://github.com/BoostIO/Boostnote/releases/tag/v0.8.14"
+  }
+ ]
+}
